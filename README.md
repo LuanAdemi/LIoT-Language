@@ -1,6 +1,6 @@
 ![LIoT](assets/LIoT.png)
 
-# LIoT
+# LIoT (WIP)
 
 LIoT is a easy to use/learn programming language for developing applications for IoT projects...
 
