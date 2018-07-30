@@ -1,4 +1,4 @@
-![LIoT](/Users/LuanAdemi/Desktop/LIoT.svg | width=100)
+![LIoT](/Users/LuanAdemi/Desktop/LIoT.svg){:height="24px" width=48px}
 
 # LIoT
 
