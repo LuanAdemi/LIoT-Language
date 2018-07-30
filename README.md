@@ -1,4 +1,3 @@
-![LIoT](assets/LIoT.png)
 
 # LIoT (WIP)
 
