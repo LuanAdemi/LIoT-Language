@@ -6,6 +6,7 @@ LIoT is a easy to use/learn programming language for developing applications for
 
 LIoT was created to help schools doing Arduino projects, without teaching their students the hard and ugly language C++
 
+To actual use the language download the IDE from github.com/LuanAdemi/LIoT-Studio/
 ## Example
 
 ```javascript
