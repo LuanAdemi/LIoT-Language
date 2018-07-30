@@ -1,4 +1,4 @@
-![LIoT](assets/LIoT.svg)
+![LIoT](/Users/LuanAdemi/Desktop/LIoT.svg | width=100)
 
 # LIoT
 
