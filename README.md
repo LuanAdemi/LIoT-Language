@@ -8,3 +8,26 @@ LIoT was created to help schools doing Arduino projects, without teaching their 
 
 ## Example
 
+```javascript
+SETUP:
+var $myVar = 1
+printtolcd("Ready");
+ENDSETUP
+
+LOOP:
+printtolcd("Loading.");
+pinon($myVar);
+sleep(1);
+pinoff($myVar);
+var $myVar = 2
+printtolcd("Loading..");
+pinon($myVar)
+sleep(1);
+pinoff($myVar)
+var $myVar = 2
+printtolcd("Loading...");
+pinon($myVar)
+sleep(1);
+pinoff($myVar)
+ENDLOOP
+```
