@@ -1,4 +1,4 @@
-![LIoT](/Users/LuanAdemi/Desktop/LIoT.svg)![LIoT](file:///Users/LuanAdemi/Desktop/LIoT.svg)
+![LIoT](assets/LIoT.svg)
 
 # LIoT
 
