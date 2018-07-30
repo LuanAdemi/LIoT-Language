@@ -1,4 +1,4 @@
-![LIoT](/Users/LuanAdemi/Desktop/LIoT.png)
+![LIoT](assets/LIoT.png)
 
 # LIoT
 
